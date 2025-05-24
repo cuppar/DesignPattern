@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Create\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Create\Builder\Builder.csproj", "{31B86DAA-DE96-47E5-BD53-E2A789A2F7EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{89817131-EB4E-4AC0-89C0-B3DC7BE284FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{31B86DAA-DE96-47E5-BD53-E2A789A2F7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31B86DAA-DE96-47E5-BD53-E2A789A2F7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31B86DAA-DE96-47E5-BD53-E2A789A2F7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89817131-EB4E-4AC0-89C0-B3DC7BE284FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89817131-EB4E-4AC0-89C0-B3DC7BE284FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89817131-EB4E-4AC0-89C0-B3DC7BE284FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89817131-EB4E-4AC0-89C0-B3DC7BE284FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
